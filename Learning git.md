@@ -1,8 +1,11 @@
-# Learning git
+# Learning Git
+|  |  |
+|--|--|
+|  |  |
 
 	
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3NDQ2MDYxNSwtMjA3NjM1MTMyNSwyMT
-MzNjM0OTI5LC0xODkwMDUzNjkzXX0=
+eyJoaXN0b3J5IjpbNDAzOTg0MTM1LDE1NzQ0NjA2MTUsLTIwNz
+YzNTEzMjUsMjEzMzYzNDkyOSwtMTg5MDA1MzY5M119
 -->
