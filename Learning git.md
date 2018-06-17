@@ -1,11 +1,9 @@
 # Learning Git
 
- 1. this is the first item
-	 1. List item
-	 2. 
+ - List item 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTEwMDUyMjI4LDE0MTIyNzk3NzksMTU3ND
-Q2MDYxNSwtMjA3NjM1MTMyNSwyMTMzNjM0OTI5LC0xODkwMDUz
-NjkzXX0=
+eyJoaXN0b3J5IjpbMjY0MDE2ODUxLDkxMDA1MjIyOCwxNDEyMj
+c5Nzc5LDE1NzQ0NjA2MTUsLTIwNzYzNTEzMjUsMjEzMzYzNDky
+OSwtMTg5MDA1MzY5M119
 -->
