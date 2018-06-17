@@ -1,8 +1,10 @@
 # Learning Git
+## Why do we need Git?
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyNDc4Nzc5Myw5MTAwNTIyMjgsMTQxMj
-I3OTc3OSwxNTc0NDYwNjE1LC0yMDc2MzUxMzI1LDIxMzM2MzQ5
-MjksLTE4OTAwNTM2OTNdfQ==
+eyJoaXN0b3J5IjpbLTIxMjMxNDAzMDksOTEwMDUyMjI4LDE0MT
+IyNzk3NzksMTU3NDQ2MDYxNSwtMjA3NjM1MTMyNSwyMTMzNjM0
+OTI5LC0xODkwMDUzNjkzXX0=
 -->
