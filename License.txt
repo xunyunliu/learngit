@@ -1,3 +1,0 @@
-this is a license file. 
-
-how about ssh methods.
