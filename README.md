@@ -14,7 +14,7 @@ typora-copy-images-to: img
 | Index        | A staging area where new commits are prepared                |
 |              | An index gives you better control on what files should be included |
 
-![capture_intro1_4_1](C:\Users\memorylake\Documents\GitHub\learngit\img/capture_intro1_4_1-1529209215328.png)
+![capture_intro1_4_1](img/capture_intro1_4_1.png)
 
 
 
@@ -25,3 +25,4 @@ typora-copy-images-to: img
 | Push    | Push will cause the remote repository to update and synchronize with our local repository. |
 | Pull    | Pull the changes from the remote repository onto your local repository. |
 
+![2](img/2.png)
